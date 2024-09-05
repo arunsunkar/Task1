@@ -1,0 +1,39 @@
+
+.background-color {
+  background: rgb(50,76,139);background: linear-gradient(15deg, rgba(50,76,139,1) 0%, rgba(122,166,182,1) 71%, rgba(114,217,186,1) 100%);
+}
+
+h5 {
+  font-size: x-large;
+  color: blue;
+}
+
+button {
+  border: none;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(173, 164, 164);
+}
+
+.center-title {
+  font-size: 3rem;
+}
+
+p {
+  font-size: small;
+}
+
+.Learn-more {
+  border: none;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(177,177,177);
+}
+
+.custom-container {
+  background-color:#7dbfc2;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
